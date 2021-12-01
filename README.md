@@ -1,4 +1,5 @@
 ## Tudo bem? :hand:
+<img align="right" src="https://i.ibb.co/Y7FqqhR/girlprogrammer.gif" alt="girlprogrammer" border="0">
 
 **Ensino**
 > IFPE - Campus garanhuns
@@ -10,7 +11,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align="right" src="https://i.ibb.co/Y7FqqhR/girlprogrammer.gif" alt="girlprogrammer" border="0">
 
 **Contato**  
 
