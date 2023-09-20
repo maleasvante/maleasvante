@@ -4,7 +4,7 @@
 **Ensino**
 > IFPE - Campus garanhuns
 
-- Estou fazendo Técnico na área de Tecnologia
+- Estou fazendo Técnico na área de Informática
 
 **Linguagens e Ferramentas:**  
 
